@@ -1,0 +1,15 @@
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+@import "~tailwindcss/utilities";
+
+body {
+  h1 {
+    color: black;
+    font-size: 32xp;
+  }
+
+  h2 {
+    color: black;
+    font-size: 26xp;
+  }
+}
